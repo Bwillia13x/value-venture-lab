@@ -84,7 +84,7 @@
     "embla-carousel-react": "^8.6.0",
     "eslint-plugin-react": "^7.37.5",
     "eslint-plugin-react-hooks": "^5.2.0",
-    "express": "^4.21.2",
+    "express": "^4.22.1",
     "express-session": "^1.18.1",
     "framer-motion": "^11.13.1",
     "input-otp": "^1.4.2",
@@ -130,7 +130,7 @@
     "@vitejs/plugin-react": "^4.3.2",
     "autoprefixer": "^10.4.20",
     "drizzle-kit": "^0.31.4",
-    "esbuild": "^0.25.0",
+    "esbuild": "^0.25.10",
     "eslint": "^8.57.0",
     "postcss": "^8.4.47",
     "prettier": "^3.3.3",
@@ -138,7 +138,7 @@
     "tailwindcss": "^3.4.17",
     "tsx": "^4.19.1",
     "typescript": "5.6.3",
-    "vite": "^7.1.5",
+    "vite": "^7.3.0",
     "vitest": "^3.2.4"
   },
   "optionalDependencies": {
